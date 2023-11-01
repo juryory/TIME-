@@ -1,0 +1,30 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* 使容器占据整个视口的高度 */
+}
+
+.custom-button {
+  display: inline-block;
+  padding: 30rpx 50rpx;
+  background-color: #007BFF;
+  color: white;
+  text-align: center;
+  border-radius: 5rpx;
+  font-weight: bold;
+  font-size: 50rpx;
+  transition: background-color 0.3s;
+  /* 如果需要阴影效果可以添加以下样式 */
+  /* box-shadow: 0 2rpx 5rpx rgba(0, 0, 0, 0.2); */
+}
+
+.custom-button:active {
+  background-color: #0056b3;
+}

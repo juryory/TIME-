@@ -1,0 +1,3 @@
+<view class="container">
+    <text class="custom-button" bindtap="navigateToLink">点击我联系客服</text>
+</view>

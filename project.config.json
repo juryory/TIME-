@@ -1,0 +1,14 @@
+{
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "autoCompile": true,
+        "compileHotReLoad": true
+    },
+    "appid": "tt2dfe5b43b2cd269901",
+    "projectname": "TIME服务",
+    "douyinProjectType": "native"
+}
